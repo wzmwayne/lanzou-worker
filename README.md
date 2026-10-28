@@ -1,44 +1,18 @@
-## 因调用量过大导致服务器IP被屏蔽，今后不再提供示例站点，请自行搭建相关服务
-# LanzouAPI
-<a href="https://github.com/hanximeng/LanzouAPI/archive/refs/heads/master.zip">下载源码</a>
-## 说明
-1. 支持检测文件是否被取消
+# 声明
 
-2. 支持带密码的文件分享链接但不支持分享的文件夹
+因学业原因，本人暂时放缓各项目的更新，学业告一段落后继续。
 
-3. 支持生成直链或直接下载
+- 账号下的仓库目前设为**归档（只读）**，推送与合并请求会暂停处理；
+- 暂停期间页面与功能不保证更新速度，恢复后照常维护；
+- 原有说明文档已移至 `_readme.md`，内容保持不变。
 
-4. 增加ios应用在线安装
+## 为什么关注 keepandroidopen.org
 
-5. 解析最终直链
+安卓正在从「开放安装」走向受控分发：侧载限制、开发者验证、平台签名垄断，
+会直接压缩个人开发者与普通用户的空间。这与项目是否更新无关，值得持续关注。
 
-6. 自动识别旧版链接替换为新版并解析
+<https://keepandroidopen.org>
 
-## 使用方法
+## 许可
 
-url:蓝奏云外链链接
-
-type:是否直接下载 值：down
-
-pwd:外链密码
-
-### 直接下载：
-
-无密码：?url=https://www.lanzouq.com/iGNHA6th9cd&type=down
-
-有密码：?url=https://www.lanzous.com/i42Xxebssfg&type=down&pwd=1234
-
-
-### 输出直链：
-
-无密码：?url=https://www.lanzouq.com/iGNHA6th9cd
-
-有密码：?url=https://www.lanzous.com/i42Xxebssfg&pwd=1234
-
-## 反馈
-Github或许无法及时回复处理，以下为其余联系方式。
-
-### Gmail
-hanximeng.com@gmail.com
-
-## 本项目仅供学习交流，项目作者不保证其稳定性，如因站点变动导致无法使用继而对作者进行人身攻击，作者可选择随时停更或删除项目。
+放弃所有权利（Unlicense / 公有领域），可自由取用、修改与再分发。
